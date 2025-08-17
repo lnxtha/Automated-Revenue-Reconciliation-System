@@ -41,11 +41,6 @@ This system enables finance teams to:
 - **Isolate and trace discrepancies** (manual journals, credits, timing)  
 - **Gain confidence in financial reporting** through automated reconciliation  
 - **Leverage self-service analytics** via a centralized Power BI dashboard  
-"""
 
-# Save to README.md
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as f:
-    f.write(readme_content)
 
-file_path
+
