@@ -1,4 +1,4 @@
-readme_content = """# Automated Revenue Reconciliation System  
+# Automated Revenue Reconciliation System  
 
 This project simulates an **enterprise-level BI solution** for a food & beverage company operating multiple plants. The goal is to build a **faster, automated, and more accurate revenue reconciliation system** between multiple ERP systems and the General Ledger (GL).  
 
